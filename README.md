@@ -5,3 +5,5 @@
 Paras ejecutar el sistema, debes poner:
 
 ```mp, install react```
+
+sistema de Registro 2
